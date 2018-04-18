@@ -1,0 +1,11 @@
+{
+    "name": "xmlscript/page",
+    "description": "uri schemes struct",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xmlscript",
+            "email": "xmlscript@gmail.com"
+        }
+    ]
+}
