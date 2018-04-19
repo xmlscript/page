@@ -1,4 +1,4 @@
-<?php namespace page;
+<?php
 
 class mongodb implements struct{
 

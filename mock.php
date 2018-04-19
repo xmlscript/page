@@ -1,4 +1,4 @@
-<?php namespace page;
+<?php
 
 final class mock implements struct{
 

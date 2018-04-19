@@ -1,4 +1,4 @@
-<?php namespace page;
+<?php
 
 interface struct{
   function __get(string $key);
