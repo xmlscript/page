@@ -1,11 +1,16 @@
 {
-    "name": "xmlscript/page",
-    "description": "uri schemes struct",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "xmlscript",
-            "email": "xmlscript@gmail.com"
-        }
-    ]
+  "name": "xmlscript/page",
+  "description": "uri schemes struct",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xmlscript",
+      "email": "xmlscript@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
 }

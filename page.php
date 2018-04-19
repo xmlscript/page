@@ -1,4 +1,4 @@
-<?php namespace page;
+<?php
 
 class page{
 
